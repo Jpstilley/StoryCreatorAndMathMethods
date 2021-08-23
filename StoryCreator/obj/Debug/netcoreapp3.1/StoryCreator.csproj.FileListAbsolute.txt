@@ -1,0 +1,13 @@
+/Users/Joey/repos/StoryCreator/StoryCreator/bin/Debug/netcoreapp3.1/StoryCreator.deps.json
+/Users/Joey/repos/StoryCreator/StoryCreator/bin/Debug/netcoreapp3.1/StoryCreator.runtimeconfig.json
+/Users/Joey/repos/StoryCreator/StoryCreator/bin/Debug/netcoreapp3.1/StoryCreator.runtimeconfig.dev.json
+/Users/Joey/repos/StoryCreator/StoryCreator/bin/Debug/netcoreapp3.1/StoryCreator.dll
+/Users/Joey/repos/StoryCreator/StoryCreator/bin/Debug/netcoreapp3.1/StoryCreator.pdb
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.csproj.AssemblyReference.cache
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.AssemblyInfoInputs.cache
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.AssemblyInfo.cs
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.csproj.CoreCompileInputs.cache
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.dll
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.pdb
+/Users/Joey/repos/StoryCreator/StoryCreator/obj/Debug/netcoreapp3.1/StoryCreator.genruntimeconfig.cache
